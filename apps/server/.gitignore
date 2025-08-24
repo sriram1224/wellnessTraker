@@ -2,3 +2,6 @@
 
 apps/server/.env
 
+# Added .env to ignore environment file
+.env
+
